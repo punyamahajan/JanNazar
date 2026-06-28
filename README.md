@@ -16,11 +16,9 @@
 
 ## 🌐 Live Demo
 
-**Website:** *(Add your Vercel URL)*
+**Website:** *https://jan-nazar.vercel.app/*
 
-**Pitch Deck:** *(Add Google Slides link)*
-
-**Demo Video:** *(Add YouTube link)*
+**Project Discription doc:** *https://docs.google.com/document/d/1jpLeiw649yHfr9Bvgy5pRf96R55CU2ygDiKTQNBG0qg/edit?usp=sharing*
 
 ---
 
@@ -125,22 +123,6 @@ Issue Published to Supabase
 * Qwen3
 * Qdrant
 * BGE Embeddings
-
----
-
-# 📸 Screenshots
-
-| Landing            | Report             |
-| ------------------ | ------------------ |
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
-| Feed               | Analytics          |
-| ------------------ | ------------------ |
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
-| CivicGPT           | Admin              |
-| ------------------ | ------------------ |
-| *(Add Screenshot)* | *(Add Screenshot)* |
 
 ---
 
